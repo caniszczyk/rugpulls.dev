@@ -14,4 +14,5 @@
 |Minio|Minio|Apache-2.0|AGPL-3.09|2021/05/21|https://blog.min.io/from-open-source-to-free-and-open-source-minio-is-now-fully-licensed-under-gnu-agplv3/|
 |Airbyte|Airbyte|MIT|Elastic License v2.0|2021/09/27|https://airbyte.com/blog/a-new-license-to-future-proof-the-commoditization-of-data-integration|
 |Redis|Redis Labs|AGPL-3.0|SSPL|2022/11/15|https://redis.com/legal/licenses|
-|Terraform|HashiCorp|MPL-2.0|BUSL|2023/08/10|https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license|
+|Terraform,Vault,Consul|HashiCorp|MPL-2.0|BUSL|2023/08/10|https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license|
+|Akka|Lightbend|Apache 2.0|BUSL|2022/09/22|https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka|
