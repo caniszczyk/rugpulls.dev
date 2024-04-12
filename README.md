@@ -16,4 +16,4 @@
 |Redis|Redis Labs|AGPL-3.0|SSPL|2022/11/15|https://redis.com/legal/licenses|
 |Terraform,Vault,Consul|HashiCorp|MPL-2.0|BUSL|2023/08/10|https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license|
 |Akka|Lightbend|Apache 2.0|BUSL|2022/09/22|https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka|
-|ArangoDB|ArangoDB|Apache 2.0|BUSL|2024/02/23|https://arangodb.com/2024/02/update-evolving-arangodbs-licensing-model-for-a-sustainable-future/ 
+|ArangoDB|ArangoDB|Apache 2.0|BUSL|2024/02/23|https://arangodb.com/2024/02/update-evolving-arangodbs-licensing-model-for-a-sustainable-future/|
