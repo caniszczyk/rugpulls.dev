@@ -2,7 +2,7 @@
 
 |Project|Company|Original License|New License|Date of Change|URL|
 |:----|:----|:----|:----|:----|:----|
-|iText|iText|MPL-1.0|AGPL-3.0|2001/12/01|https://en.wikipedia.org/wiki/IText#Licensing|
+|iText|iText|MPL-1.0|AGPL-3.0|2009/12/01|https://en.wikipedia.org/wiki/IText#Licensing|
 |Redis|Redis Labs|Apache-2.0|Commons Clause|2018/08/01|https://redis.com/legal/licenses|
 |MongoDB|MongoDB|AGPL-3.0|SSPL|2018/10/16|https://www.mongodb.com/press/mongodb-issues-new-server-side-public-license-for-mongodb-community-server|
 |Confluent|Confluent|Apache-2.0|Confluent Community License|2018/12/14|https://www.confluent.io/blog/license-changes-confluent-platform/|
