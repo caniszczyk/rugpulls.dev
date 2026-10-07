@@ -1,0 +1,78 @@
+/**
+ * Global styles. Infima variables are overridden here; site-specific
+ * tokens are prefixed --rp-.
+ */
+
+:root {
+  --ifm-color-primary: #b42318;
+  --ifm-color-primary-dark: #a21f16;
+  --ifm-color-primary-darker: #991e14;
+  --ifm-color-primary-darkest: #7e1811;
+  --ifm-color-primary-light: #c6271a;
+  --ifm-color-primary-lighter: #cf291c;
+  --ifm-color-primary-lightest: #e0372a;
+
+  --ifm-font-family-base: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --ifm-heading-font-family: 'Space Grotesk', system-ui, sans-serif;
+  --ifm-font-family-monospace: 'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+  --ifm-code-font-size: 92%;
+  --ifm-navbar-shadow: none;
+
+  --ifm-background-color: #fbf8f4;
+  --ifm-background-surface-color: #ffffff;
+
+  --rp-on-primary: #ffffff;
+  --rp-muted: #6b6259;
+  --rp-border: #e6ded5;
+  --rp-row-hover: #f5efe8;
+  --rp-hero-bg: #1c1512;
+  --rp-hero-fg: #f7efe7;
+  --rp-hero-muted: #c4b5a8;
+  --rp-open-bg: #ecfdf3;
+  --rp-open-border: #abefc6;
+  --rp-open-fg: #067647;
+  --rp-closed-bg: #fef3f2;
+  --rp-closed-border: #fecdca;
+  --rp-closed-fg: #b42318;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #f97066;
+  --ifm-color-primary-dark: #f8574b;
+  --ifm-color-primary-darker: #f74a3e;
+  --ifm-color-primary-darkest: #f42416;
+  --ifm-color-primary-light: #fa8981;
+  --ifm-color-primary-lighter: #fb968e;
+  --ifm-color-primary-lightest: #fcbbb6;
+
+  --ifm-background-color: #15110f;
+  --ifm-background-surface-color: #1f1916;
+
+  --rp-on-primary: #1c1512;
+  --rp-muted: #a8998c;
+  --rp-border: #3a302a;
+  --rp-row-hover: #221b17;
+  --rp-hero-bg: #0d0a09;
+  --rp-hero-fg: #f7efe7;
+  --rp-hero-muted: #a8998c;
+  --rp-open-bg: #053321;
+  --rp-open-border: #085d3a;
+  --rp-open-fg: #75e0a7;
+  --rp-closed-bg: #3d0f0b;
+  --rp-closed-border: #7a271a;
+  --rp-closed-fg: #fda29b;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--rp-border);
+}
+
+.navbar__title {
+  font-family: var(--ifm-heading-font-family);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.footer--dark {
+  --ifm-footer-background-color: var(--rp-hero-bg);
+}

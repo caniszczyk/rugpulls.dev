@@ -1,5 +1,9 @@
 # Open Source Relicensing Events
 
+A community-maintained record of open source projects that changed their license. Browse it at [rugpulls.dev](https://rugpulls.dev).
+
+To add an event, add a row to the table below and open a pull request (dates as `YYYY/MM/DD`). The website in [`website/`](website/) is generated from this table, so the README is the only file you need to edit.
+
 |Project|Company|Original License|New License|Date of Change|URL|
 |:----|:----|:----|:----|:----|:----|
 |iText|iText|MPL-1.0|AGPL-3.0|2009/12/01|https://en.wikipedia.org/wiki/IText#Licensing|
@@ -11,9 +15,9 @@
 |ElasticSearch|Elastic|Apache-2.0|SSPL|2021/01/19|https://www.elastic.co/blog/licensing-change|
 |Couchbase|Couchbase|Apache-2.0|BUSL|2021/03/26|https://www.couchbase.com/blog/couchbase-adopts-bsl-license/|
 |Grafana|Grafana|Apache-2.0|AGPL-3.0|2021/04/20|https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/|
-|Minio|Minio|Apache-2.0|AGPL-3.09|2021/05/21|https://blog.min.io/from-open-source-to-free-and-open-source-minio-is-now-fully-licensed-under-gnu-agplv3/|
+|Minio|Minio|Apache-2.0|AGPL-3.0|2021/05/21|https://blog.min.io/from-open-source-to-free-and-open-source-minio-is-now-fully-licensed-under-gnu-agplv3/|
 |Airbyte|Airbyte|MIT|Elastic License v2.0|2021/09/27|https://airbyte.com/blog/a-new-license-to-future-proof-the-commoditization-of-data-integration|
 |Redis|Redis Labs|AGPL-3.0|SSPL|2022/11/15|https://redis.com/legal/licenses|
 |Terraform,Vault,Consul|HashiCorp|MPL-2.0|BUSL|2023/08/10|https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license|
-|Akka|Lightbend|Apache 2.0|BUSL|2022/09/22|https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka|
-|ArangoDB|ArangoDB|Apache 2.0|BUSL|2024/02/23|https://arangodb.com/2024/02/update-evolving-arangodbs-licensing-model-for-a-sustainable-future/|
+|Akka|Lightbend|Apache-2.0|BUSL|2022/09/22|https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka|
+|ArangoDB|ArangoDB|Apache-2.0|BUSL|2024/02/23|https://arangodb.com/2024/02/update-evolving-arangodbs-licensing-model-for-a-sustainable-future/|
