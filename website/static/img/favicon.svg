@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="rugpulls.dev">
+  <!-- A rug with fringe, its right edge being pulled away -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M10 18h30l10 8v20H10z" fill="#f04438"/>
+    <path d="M40 18l10 8H40z" fill="#912018"/>
+    <path d="M10 26h32M10 34h40M10 42h40" stroke="#fda29b" stroke-width="2.5"/>
+    <path d="M10 14v4M16 14v4M22 14v4M28 14v4M34 14v4M10 46v4M16 46v4M22 46v4M28 46v4M34 46v4M40 46v4M46 46v4" stroke="#f04438" stroke-width="2"/>
+    <path d="M52 36h8m-4-4 4 4-4 4" stroke="#f04438" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+</svg>
